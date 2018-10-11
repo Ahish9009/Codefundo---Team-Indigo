@@ -13,3 +13,9 @@ We plan to build a network of drones in order to help locate and distribute reso
 
 * Target Disasters 
   * Earthquakes, Floods, Tsunamis, Landslides, etc.
+* Drone Features
+  * GPS Enabled
+  * 3-Axis Camera
+  * Connectivity to Azure Cloud
+  * Connectivity to Base
+  * Low to Medium sized Payload
