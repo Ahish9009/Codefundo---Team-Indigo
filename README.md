@@ -1,2 +1,2 @@
 # Codefundo---Team-Indigo
-## Team Indigo's idea for Codefundo
+### Team Indigo's idea for Code.Fun.Do
