@@ -10,6 +10,6 @@ Our idea is divided into two parts:
 ### Drone System
 
 We plan to build a network of drones in order to help locate and distribute resources among the disaster-stricken people. It will also be used as a real time source of data from the affected region.
-* Target Disasters 
 
-Earthquakes, Floods, Tsunamis, Landslides, etc.
+* Target Disasters 
+  * Earthquakes, Floods, Tsunamis, Landslides, etc.
