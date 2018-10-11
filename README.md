@@ -9,3 +9,4 @@ Our idea is divided into two parts:
 
 ### Drone System
 
+We plan to build a network of drones in order to help locate and distribute resources among the disaster-stricken people. 
