@@ -45,7 +45,7 @@ To complement the Drone system, a hub system will be implemented to keep account
 
 #### Working
 
- - The hub will provide a common link between various service providers and the authorities. The service providers will then be able to list out of their services and goods along with the price. This will provide the authorities a hassle-free and convenient method to purchase miscellaneous goods and services. 
+ - The hub will provide a common link between various authorities and the service providers who will then be able to list prices of their services and goods. Authorities would now have a convenient way to access and allocate resources.
  - Rescue workers on site will be able to put up requests for goods, that are required at their location, on a common platform. The hub will have categories for the type of goods required such as food, water, etc. 
  - The hub will then push notifications to the required authorities and resellers that sell the particular commodity.
  - We also plan to incorporate the information from the drone system to prioritize the needs of people in a certain region. 
@@ -53,7 +53,6 @@ To complement the Drone system, a hub system will be implemented to keep account
  #### Implementation
  
  - We plan to use the Azure SQL Database System in the backend.
- - Queries will be pushed to the database in order to manipulate the data.
  - A UI will be developed to display information and accept queries.
  
  #### Possible Updates
