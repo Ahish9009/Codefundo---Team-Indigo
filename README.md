@@ -1,5 +1,5 @@
 # Code.Fun.Do++ | Team-Indigo
-## Team Indigo's idea
+## Team Indigo's Idea
 
 ### Introduction
 
