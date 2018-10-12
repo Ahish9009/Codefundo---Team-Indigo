@@ -1,5 +1,5 @@
-# Codefundo---Team-Indigo
-## Team Indigo's idea for Code.Fun.Do
+# Code.Fun.Do++ | Team-Indigo
+## Team Indigo's idea
 
 ### Introduction
 
