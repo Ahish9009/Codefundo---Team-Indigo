@@ -23,6 +23,6 @@ We plan to build a network of drones in order to help locate and distribute reso
 
 #### Working
 
-  Drones will be deployed across the disaster-stricken region in an optimal manner. Each drone will be connected to the base,    ie. the data center(where all the data collected by the drone will be sent for processing). <br /><br />
-  Each drone will collect data in real time by scanning the environment with the camera, and send it to the base for processing. The processed data will then again be used to reroute the drones and assign tasks to them. The drone will also implement a system to recognize people's locations, providing rescue workers with invaluable information on where to concentrate their rescue efforts. <br /><br />
-  We also plan to try to empower the drone to recognize blocked/unsafe roads to allow the rescue workers to reach the affected sites using the most optimal routes. 
+ - Drones will be deployed across the disaster-stricken region in an optimal manner. Each drone will be connected to the base,    ie. the data center(where all the data collected by the drone will be sent for processing). <br /><br />
+ - Each drone will collect data in real time by scanning the environment with the camera, and send it to the base for processing. The processed data will then again be used to reroute the drones and assign tasks to them. The drone will also implement a system to recognize people's locations, providing rescue workers with invaluable information on where to concentrate their rescue efforts. <br /><br />
+ - We also plan to try to empower the drone to recognize blocked/unsafe roads to allow the rescue workers to reach the affected sites using the most optimal routes. 
