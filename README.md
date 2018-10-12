@@ -24,8 +24,8 @@ We plan to build a network of drones in order to help locate and distribute reso
 #### Working
 
  - Drones will be deployed across the disaster-stricken region in an optimal manner. Each drone will be connected to the base,    ie. the data center(where all the data collected by the drone will be sent for processing). 
- - Each drone will collect data in real time by scanning the environment with the camera, and send it to the base for processing. The processed data will then again be used to reroute the drones and assign tasks to them. The drone will also implement a system to recognize people's locations, providing rescue workers with invaluable information on where to concentrate their rescue efforts.
- - We also plan to try to empower the drone to recognize blocked/unsafe roads to allow the rescue workers to reach the affected sites using the most optimal routes. 
+ - Each drone will collect data in real time by scanning the environment with the camera. The processed data from the base will then again be used to reroute the drones. The drone will also implement a system to recognize people's locations, providing rescue workers with invaluable information on where to concentrate their rescue efforts.
+ - We also plan to try to empower the drone to recognize blocked/unsafe roads to allow the rescue workers to reach the affected sites using optimal routes. 
  - At times, the drones maybe assigned to carry ration supplies to and from places. 
  
 #### Implementation
@@ -40,8 +40,18 @@ To complement the Drone system, a hub system will be implemented to keep account
  
 * Hub Features
   * Support for a basic DBMS
-  * ChatBot
+  * Structured Addressing of Commodity Requests
+  * Centralized System for the Authories to Buy Basic Commodities
 
 #### Working
 
-
+ - The hub will provide a common link between various service providers and the authorities. The service providers will then be able to list out of their services and goods along with the price. This will provide the authorities a hassle-free and convenient method to purchase miscellaneous goods and services. 
+ - Rescue workers on site will be able to put up requests for goods, that are required at their location, on a common platform. The hub will have categories for the type of goods required such as food, water, etc. 
+ - The hub will then push notifications to the required authorities and resellers that sell the particular commodity.
+ - We also plan to incorporate the information from the drone system to prioritize the needs of people in a certain region. 
+ 
+ #### Implementation
+ 
+ - We plan to use the Azure SQL Database System in the backend.
+ - Queries will be pushed to the database in order to manipulate the data.
+ - A UI will be developed to display information and accept queries.
