@@ -41,7 +41,7 @@ To complement the Drone system, a hub system will be implemented to keep account
 * Hub Features
   * Support for a basic DBMS
   * Structured Addressing of Commodity Requests
-  * Centralized System for the Authories to Buy Basic Commodities
+  * Centralized System for the Authorities to Buy Basic Commodities
 
 #### Working
 
@@ -55,3 +55,6 @@ To complement the Drone system, a hub system will be implemented to keep account
  - We plan to use the Azure SQL Database System in the backend.
  - Queries will be pushed to the database in order to manipulate the data.
  - A UI will be developed to display information and accept queries.
+ 
+ #### Possible Updates
+ - Decentralizing the resource sharing platform to enable transparency, establish trust among donors, identify demand and allocate resources effeciently.
