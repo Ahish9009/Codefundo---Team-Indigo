@@ -56,4 +56,4 @@ To complement the Drone system, a hub system will be implemented to keep account
  - A UI will be developed to display information and accept queries.
  
  #### Possible Updates
- - Decentralizing the resource sharing platform to enable transparency, establish trust among donors, identify demand and allocate resources effeciently.
+ - Decentralizing the resource sharing platform to enable transparency, establish trust among donors, identify demand and allocate resources efficiently.
