@@ -20,6 +20,7 @@ We plan to build a network of drones in order to help locate and distribute reso
   * Connectivity to Azure Cloud
   * Connectivity to Base
   * Low to Medium sized Payload
+  * Onboard SoC 
 
 #### Working
 
@@ -32,7 +33,6 @@ We plan to build a network of drones in order to help locate and distribute reso
 
  - The above mentioned features will be implemented by using Microsoft Azure's Cognitive Services and Custom Vision API, along with a Maps API and GPS. The camera will be used to take and send images from the drone to the base for analysis.
  - The SOC on board will be used to send instructions to the drone as well as to monitor it's status.
- - A slight modification will be made to the drone in order to enable it to carry payloads.
  
 ### Hub System
 
