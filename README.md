@@ -38,7 +38,7 @@ We plan to build a network of drones in order to help locate and distribute reso
 
 To complement the Drone system, a hub system will be implemented to keep accounts of the available resources and suggest future expenditures based on people's needs. 
  
- * Hub Features
+* Hub Features
   * Support for a basic DBMS
   * ChatBot
 
